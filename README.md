@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Zulfikar Khalid Noer
 - 👀 I’m interested in Tech and Art
-- 🌱 I’m currently learning Python and machine learning
-- 💞️ I’m looking to work as a programmer
 - 📫 You can contact me on 
       zulfikhanoer@gmail.com or
       linkedin/in/zulfikar-noer
